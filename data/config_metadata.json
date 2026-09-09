@@ -1,0 +1,104 @@
+{
+    "Metadata": [
+        {
+            "MetaType": "AchievementsMetaData",
+            "Version": 1788736655,
+            "Build": 69707
+        },
+        {
+            "MetaType": "ChallengesMetaData",
+            "Version": 1788157023,
+            "Build": 69707
+        },
+        {
+            "MetaType": "EntitlementsMetaData",
+            "Version": 1788813160,
+            "Build": 69707
+        },
+        {
+            "MetaType": "GameConfigMetaData",
+            "Version": 1788157023,
+            "Build": 69707
+        },
+        {
+            "MetaType": "MapsMetaData",
+            "Version": 1788157023,
+            "Build": 69707
+        },
+        {
+            "MetaType": "GameplayAttributes",
+            "Version": 1788157026,
+            "Build": 69707
+        },
+        {
+            "MetaType": "InventoryItemsMetaData",
+            "Version": 1788559819,
+            "Build": 69707
+        },
+        {
+            "MetaType": "ItemCategoryMetaData",
+            "Version": 1788468435,
+            "Build": 69707
+        },
+        {
+            "MetaType": "ItemLevelMetaData",
+            "Version": 1788468435,
+            "Build": 69707
+        },
+        {
+            "MetaType": "PrestigeLevelMetaData",
+            "Version": 1788293670,
+            "Build": 69707
+        },
+        {
+            "MetaType": "ItemPrestigeLevelMetaData",
+            "Version": 1788400017,
+            "Build": 69707
+        },
+        {
+            "MetaType": "ItemModifiersMetaData",
+            "Version": 1788199351,
+            "Build": 69707
+        },
+        {
+            "MetaType": "LevelMetaData",
+            "Version": 1788468435,
+            "Build": 69707
+        },
+        {
+            "MetaType": "MatchEventModifiersMetaData",
+            "Version": 1788157029,
+            "Build": 69707
+        },
+        {
+            "MetaType": "MatchEventMetaData",
+            "Version": 1788810936,
+            "Build": 69707
+        },
+        {
+            "MetaType": "MatchmakingPlatformMetaData",
+            "Version": 1788157029,
+            "Build": 69707
+        },
+        {
+            "MetaType": "MatchmakingTeamsMetaData",
+            "Version": 1788157029,
+            "Build": 69707
+        },
+        {
+            "MetaType": "P2PRelayMetaData",
+            "Version": 1788156764,
+            "Build": 69707
+        },
+        {
+            "MetaType": "PurchasablesMetaData",
+            "Version": 1788300428,
+            "Build": 69707
+        },
+        {
+            "MetaType": "MatchScoreTiersMetaData",
+            "Version": 1788157029,
+            "Build": 69707
+        }
+    ]
+}

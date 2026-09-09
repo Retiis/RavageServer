@@ -1,0 +1,269 @@
+{
+    "Name": "production",
+    "Regions": [
+        {
+            "Name": "ap-northeast-1",
+            "AWSRegion": "ap-northeast-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.ap-northeast-1.api.aws:7770"
+                }
+            ]
+        },
+        {
+            "Name": "ap-northeast-2",
+            "AWSRegion": "ap-northeast-2",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.ap-northeast-2.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://ap-northeast-2.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "ap-northeast-2.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "ap-south-1",
+            "AWSRegion": "ap-south-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.ap-south-1.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://ap-south-1.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "ap-south-1.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "ap-southeast-1",
+            "AWSRegion": "ap-southeast-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.ap-southeast-1.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://ap-southeast-1.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "ap-southeast-1.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "ap-southeast-2",
+            "AWSRegion": "ap-southeast-2",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.ap-southeast-2.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://ap-southeast-2.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "ap-southeast-2.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "ca-central-1",
+            "AWSRegion": "ca-central-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.ca-central-1.api.aws:7770"
+                }
+            ]
+        },
+        {
+            "Name": "eu-central-1",
+            "AWSRegion": "eu-central-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.eu-central-1.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://eu-central-1.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "eu-central-1.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "eu-west-1",
+            "AWSRegion": "eu-west-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.eu-west-1.api.aws:7770"
+                }
+            ]
+        },
+        {
+            "Name": "eu-west-2",
+            "AWSRegion": "eu-west-2",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.eu-west-2.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://eu-west-2.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "eu-west-2.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "sa-east-1",
+            "AWSRegion": "sa-east-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.sa-east-1.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://sa-east-1.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "sa-east-1.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "us-east-1",
+            "AWSRegion": "us-east-1",
+            "Services": [
+                {
+                    "Name": "auth",
+                    "Host": "https://prod.ravage.illfonic.com/auth/"
+                },
+                {
+                    "Name": "config",
+                    "Host": "https://prod.ravage.illfonic.com/config/"
+                },
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.us-east-1.api.aws:7770"
+                },
+                {
+                    "Name": "friend",
+                    "Host": "https://prod.ravage.illfonic.com/friend/"
+                },
+                {
+                    "Name": "key",
+                    "Host": "https://prod.ravage.illfonic.com/key/"
+                },
+                {
+                    "Name": "logging",
+                    "Host": "https://prod.ravage.illfonic.com/logging/"
+                },
+                {
+                    "Name": "matchmaking",
+                    "Host": "https://prod.ravage.illfonic.com/matchmaking/"
+                },
+                {
+                    "Name": "news",
+                    "Host": "https://prod.ravage.illfonic.com/news/"
+                },
+                {
+                    "Name": "playerstats",
+                    "Host": "https://prod.ravage.illfonic.com/playerstats/"
+                },
+                {
+                    "Name": "progression",
+                    "Host": "https://prod.ravage.illfonic.com/progression/"
+                },
+                {
+                    "Name": "push",
+                    "Host": "https://prod.ravage.illfonic.com/push/"
+                },
+                {
+                    "Name": "reporting",
+                    "Host": "https://prod.ravage.illfonic.com/reporting/"
+                },
+                {
+                    "Name": "session",
+                    "Host": "https://prod.ravage.illfonic.com/session/"
+                },
+                {
+                    "Name": "telemetry",
+                    "Host": "https://prod.ravage.illfonic.com/telemetry/"
+                }
+            ]
+        },
+        {
+            "Name": "us-east-2",
+            "AWSRegion": "us-east-2",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.us-east-2.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://us-east-2.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "us-east-2.p2p.illfonic.com:3478"
+                }
+            ]
+        },
+        {
+            "Name": "us-west-1",
+            "AWSRegion": "us-west-1",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.us-west-1.api.aws:7770"
+                }
+            ]
+        },
+        {
+            "Name": "us-west-2",
+            "AWSRegion": "us-west-2",
+            "Services": [
+                {
+                    "Name": "echo",
+                    "Host": "gamelift-ping.us-west-2.api.aws:7770"
+                },
+                {
+                    "Name": "p2p",
+                    "Host": "https://us-west-2.p2p.illfonic.com"
+                },
+                {
+                    "Name": "stun",
+                    "Host": "us-west-2.p2p.illfonic.com:3478"
+                }
+            ]
+        }
+    ]
+}
