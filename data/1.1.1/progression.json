@@ -1,0 +1,51 @@
+{
+    "AccountID": "FAD95950-8105-4EDB-ACC1-C1F120EA27FA",
+    "ExperienceProfile": {
+        "CreatedAt": "2026-09-08T16:19:30.529Z",
+        "UpdatedAt": "2026-09-30T12:50:54.73Z",
+        "Experience": 75574,
+        "Level": 9,
+        "ToNext": 3426,
+        "Prestige": 0,
+        "ExpOverCap": 0,
+        "Country": "",
+        "LastBuild": 0,
+        "PrestigeChallengeID": 0,
+        "PrestigeChallengeEndsAt": "0001-01-01T00:00:00Z"
+    },
+    "ChallengeProfile": {
+        "Challenges": null
+    },
+    "Wallet": {
+        "Currencies": [
+            {
+                "Name": "KillerTokens",
+                "Balance": 40,
+                "Debit": 0,
+                "Credit": 40,
+                "PlatformCurrencies": [
+                    {
+                        "Name": "KillerTokens",
+                        "Platform": "",
+                        "Debit": 0,
+                        "Credit": 40
+                    }
+                ]
+            },
+            {
+                "Name": "PerkPoints",
+                "Balance": 14381,
+                "Debit": 0,
+                "Credit": 14381,
+                "PlatformCurrencies": [
+                    {
+                        "Name": "PerkPoints",
+                        "Platform": "",
+                        "Debit": 0,
+                        "Credit": 14381
+                    }
+                ]
+            }
+        ]
+    }
+}

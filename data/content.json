@@ -1,0 +1,13 @@
+{
+    "config": "1.0;json",
+    "config_metadata": "1.1.1;json",
+    "playerstats": "1.1.1;json",
+    "achievements": "1.1.1;json",
+    "progression": "1.1.1;json",
+    "reporting": "1.1.1;json",
+    "inventory": "1.1.1;json",
+    "BuildManifest-Windows": "1.1.1;txt",
+    "loadouts": "1.1.1;json",
+    "news": "custom;json",
+    "alerts": "1.1.1;json"
+}

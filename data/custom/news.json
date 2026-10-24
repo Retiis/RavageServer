@@ -1,0 +1,19 @@
+{
+    "Articles": [
+        {
+            "ID": 100,
+            "Published": true,
+            "Headline": "  ",
+            "Content": "Welcome to RavageServer, the first private server for Halloween: The Game.\r\n\r\n\r\nDownload: github.com/Retiis/RavageServer\nCreator: Retii (@rf_r on Discord)",
+            "ImgLink": "https://i.ibb.co/p6HJCV0N/thumbnail.png",
+            "ThumbLink": "https://i.ibb.co/p6HJCV0N/thumbnail.png",
+            "ArticleLink": "",
+            "CreatedAt": "2026-10-16T18:04:26.481179Z",
+            "UpdatedAt": "2026-10-16T20:28:29.370965Z",
+            "StartsAt": "2026-10-16T18:03:24Z",
+            "EndsAt": "0001-01-01T00:00:00Z",
+            "Tags": null
+        }
+    ],
+    "Count": 1
+}

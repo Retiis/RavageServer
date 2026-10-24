@@ -1,0 +1,39 @@
+{
+    "Reasons": [
+        {
+            "ID": 1,
+            "Value": "Chat Abuse",
+            "EACCategory": 4,
+            "CommentRequired": false,
+            "Disabled": false
+        },
+        {
+            "ID": 2,
+            "Value": "Cheating",
+            "EACCategory": 1,
+            "CommentRequired": false,
+            "Disabled": false
+        },
+        {
+            "ID": 3,
+            "Value": "Exploiting",
+            "EACCategory": 2,
+            "CommentRequired": false,
+            "Disabled": false
+        },
+        {
+            "ID": 4,
+            "Value": "Boosting",
+            "EACCategory": 7,
+            "CommentRequired": false,
+            "Disabled": false
+        },
+        {
+            "ID": 5,
+            "Value": "Griefing",
+            "EACCategory": 7,
+            "CommentRequired": false,
+            "Disabled": false
+        }
+    ]
+}

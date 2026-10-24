@@ -1,0 +1,163 @@
+[
+    {
+        "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+        "Team": "Loadout.Tag.Civ.Eugene",
+        "Index": 0,
+        "Data": {
+            "Items": [
+                "Character:ID.Character.Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.BY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.EY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.FH.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HR.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00",
+                "Cosmetic:DA_Cosmetic_Name_Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.FO.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.VO.EU0",
+                "Cosmetic:DA_Cosmetic_Male_Anims",
+                "Item:ID.Item.Empty.StartingItem",
+                "Emote:DA_Emote_Disagree",
+                "Emote:DA_Emote_FingerGun",
+                "Emote:DA_Emote_Greeting",
+                "Emote:DA_Emote_Thanks",
+                "Emote:DA_Emote_Agree",
+                "None",
+                "Emote:DA_Emote_HF_Dance_Soultrain_05",
+                "None"
+            ],
+            "LoadoutData": "{\"StartingPerks\":[],\"HeroicFeat\":[],\"StartingItem\":\"Item:ID.Item.Empty.StartingItem\",\"StartingItemAttachments\":[],\"Emotes\":[\"Emote:DA_Emote_Disagree\",\"Emote:DA_Emote_FingerGun\",\"Emote:DA_Emote_Greeting\",\"Emote:DA_Emote_Thanks\",\"Emote:DA_Emote_Agree\",\"\",\"Emote:DA_Emote_HF_Dance_Soultrain_05\",\"\"],\"CharacterDefinition\":\"Character:ID.Character.Eugene\",\"Cosmetics\":[{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.BY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.EY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FH.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HR.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Name_Eugene\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.VO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Male_Anims\",\"Variant\":{\"TagName\":\"None\"}}],\"PerkDeckIndex\":0,\"bCustomNameSet\":false,\"bIsActive\":false,\"Name\":\"\"}"
+        }
+    },
+    {
+        "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+        "Team": "Loadout.Tag.Civ.Eugene",
+        "Index": 1,
+        "Data": {
+            "Items": [
+                "Character:ID.Character.Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.BY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.EY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.FH.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HR.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00",
+                "Cosmetic:DA_Cosmetic_Name_Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.FO.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.VO.EU0",
+                "Cosmetic:DA_Cosmetic_Male_Anims",
+                "Item:ID.Item.Empty.StartingItem",
+                "Emote:DA_Emote_Disagree",
+                "Emote:DA_Emote_FingerGun",
+                "Emote:DA_Emote_Greeting",
+                "Emote:DA_Emote_Thanks",
+                "Emote:DA_Emote_Agree",
+                "None",
+                "Emote:DA_Emote_HF_Dance_Soultrain_05",
+                "None"
+            ],
+            "LoadoutData": "{\"StartingPerks\":[],\"HeroicFeat\":[],\"StartingItem\":\"Item:ID.Item.Empty.StartingItem\",\"StartingItemAttachments\":[],\"Emotes\":[\"Emote:DA_Emote_Disagree\",\"Emote:DA_Emote_FingerGun\",\"Emote:DA_Emote_Greeting\",\"Emote:DA_Emote_Thanks\",\"Emote:DA_Emote_Agree\",\"\",\"Emote:DA_Emote_HF_Dance_Soultrain_05\",\"\"],\"CharacterDefinition\":\"Character:ID.Character.Eugene\",\"Cosmetics\":[{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.BY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.EY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FH.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HR.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Name_Eugene\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.VO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Male_Anims\",\"Variant\":{\"TagName\":\"None\"}}],\"PerkDeckIndex\":0,\"bCustomNameSet\":false,\"bIsActive\":false,\"Name\":\"\"}"
+        }
+    },
+    {
+        "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+        "Team": "Loadout.Tag.Civ.Eugene",
+        "Index": 2,
+        "Data": {
+            "Items": [
+                "Character:ID.Character.Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.BY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.EY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.FH.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HR.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00",
+                "Cosmetic:DA_Cosmetic_Name_Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.FO.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.VO.EU0",
+                "Cosmetic:DA_Cosmetic_Male_Anims",
+                "Item:ID.Item.Empty.StartingItem",
+                "Emote:DA_Emote_Disagree",
+                "Emote:DA_Emote_FingerGun",
+                "Emote:DA_Emote_Greeting",
+                "Emote:DA_Emote_Thanks",
+                "Emote:DA_Emote_Agree",
+                "None",
+                "Emote:DA_Emote_HF_Dance_Soultrain_05",
+                "None"
+            ],
+            "LoadoutData": "{\"StartingPerks\":[],\"HeroicFeat\":[],\"StartingItem\":\"Item:ID.Item.Empty.StartingItem\",\"StartingItemAttachments\":[],\"Emotes\":[\"Emote:DA_Emote_Disagree\",\"Emote:DA_Emote_FingerGun\",\"Emote:DA_Emote_Greeting\",\"Emote:DA_Emote_Thanks\",\"Emote:DA_Emote_Agree\",\"\",\"Emote:DA_Emote_HF_Dance_Soultrain_05\",\"\"],\"CharacterDefinition\":\"Character:ID.Character.Eugene\",\"Cosmetics\":[{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.BY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.EY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FH.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HR.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Name_Eugene\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.VO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Male_Anims\",\"Variant\":{\"TagName\":\"None\"}}],\"PerkDeckIndex\":0,\"bCustomNameSet\":false,\"bIsActive\":false,\"Name\":\"\"}"
+        }
+    },
+    {
+        "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+        "Team": "Loadout.Tag.Civ.Eugene",
+        "Index": 3,
+        "Data": {
+            "Items": [
+                "Character:ID.Character.Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.BY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.EY.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.FH.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HR.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00",
+                "Cosmetic:DA_Cosmetic_Name_Eugene",
+                "Cosmetic:ID.Cosmetic.Survivor.FO.EU0",
+                "Cosmetic:ID.Cosmetic.Survivor.VO.EU0",
+                "Cosmetic:DA_Cosmetic_Male_Anims",
+                "Item:ID.Item.Empty.StartingItem",
+                "Emote:DA_Emote_Disagree",
+                "Emote:DA_Emote_FingerGun",
+                "Emote:DA_Emote_Greeting",
+                "Emote:DA_Emote_Thanks",
+                "Emote:DA_Emote_Agree",
+                "None",
+                "Emote:DA_Emote_HF_Dance_Soultrain_05",
+                "None"
+            ],
+            "LoadoutData": "{\"StartingPerks\":[],\"HeroicFeat\":[],\"StartingItem\":\"Item:ID.Item.Empty.StartingItem\",\"StartingItemAttachments\":[],\"Emotes\":[\"Emote:DA_Emote_Disagree\",\"Emote:DA_Emote_FingerGun\",\"Emote:DA_Emote_Greeting\",\"Emote:DA_Emote_Thanks\",\"Emote:DA_Emote_Agree\",\"\",\"Emote:DA_Emote_HF_Dance_Soultrain_05\",\"\"],\"CharacterDefinition\":\"Character:ID.Character.Eugene\",\"Cosmetics\":[{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.BY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.EY.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FH.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HR.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HD.EU0.00\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Name_Eugene\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.VO.EU0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Male_Anims\",\"Variant\":{\"TagName\":\"None\"}}],\"PerkDeckIndex\":0,\"bCustomNameSet\":false,\"bIsActive\":false,\"Name\":\"\"}"
+        }
+    },
+    {
+        "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+        "Team": "Loadout.Tag.Civ.Marcus",
+        "Index": 0,
+        "Data": {
+            "Items": [
+                "Character:ID.Character.Marcus",
+                "Cosmetic:ID.Cosmetic.Survivor.BY.MA0",
+                "Cosmetic:ID.Cosmetic.Survivor.EY.MA0",
+                "Cosmetic:ID.Cosmetic.Survivor.FH.MA0",
+                "Cosmetic:ID.Cosmetic.Survivor.HR.MA0",
+                "Cosmetic:ID.Cosmetic.Survivor.HD.MA0.00",
+                "Cosmetic:DA_Cosmetic_Name_Marcus",
+                "Cosmetic:DA_Cosmetic_Male_Anims",
+                "Cosmetic:ID.Cosmetic.Survivor.VO.MA0",
+                "Cosmetic:ID.Cosmetic.Survivor.FO.MA2",
+                "Item:ID.Item.Empty.StartingItem",
+                "Emote:DA_Emote_Disagree",
+                "Emote:DA_Emote_FingerGun",
+                "Emote:DA_Emote_Greeting",
+                "Emote:DA_Emote_Thanks",
+                "Emote:DA_Emote_Agree",
+                "None",
+                "Emote:DA_Emote_HF_Dance_Soultrain_05",
+                "None"
+            ],
+            "LoadoutData": "{\"StartingPerks\":[],\"HeroicFeat\":[],\"StartingItem\":\"Item:ID.Item.Empty.StartingItem\",\"StartingItemAttachments\":[],\"Emotes\":[\"Emote:DA_Emote_Disagree\",\"Emote:DA_Emote_FingerGun\",\"Emote:DA_Emote_Greeting\",\"Emote:DA_Emote_Thanks\",\"Emote:DA_Emote_Agree\",\"\",\"Emote:DA_Emote_HF_Dance_Soultrain_05\",\"\"],\"CharacterDefinition\":\"Character:ID.Character.Marcus\",\"Cosmetics\":[{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.BY.MA0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.EY.MA0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FH.MA0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HR.MA0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.HD.MA0.00\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Name_Marcus\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:DA_Cosmetic_Male_Anims\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.VO.MA0\",\"Variant\":{\"TagName\":\"None\"}},{\"ID\":\"Cosmetic:ID.Cosmetic.Survivor.FO.MA2\",\"Variant\":{\"TagName\":\"Cosmetic.Variant.Var00\"}}],\"PerkDeckIndex\":0,\"bCustomNameSet\":false,\"bIsActive\":false,\"Name\":\"\"}"
+        }
+    },
+    {
+        "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+        "Team": "Loadout.Tag.Killer.Michael",
+        "Index": 0,
+        "Data": {
+            "Items": [
+                "Character:ID.Character.Michael",
+                "Cosmetic:ID.Cosmetic.Killer.FC.MIBPreOrder",
+                "Item:ID.Item.Knife.Default",
+                "Ability:ID.Ability.Killer.RealityTear",
+                "Ability:ID.Ability.Killer.Pulse",
+                "Ability:ID.Ability.Killer.Blackout"
+            ],
+            "LoadoutData": "{\"Abilities\":[\"Ability:ID.Ability.Killer.RealityTear\",\"Ability:ID.Ability.Killer.Pulse\",\"Ability:ID.Ability.Killer.Blackout\"],\"bIgnoreStartingItemRequirement\":false,\"StartingItem\":\"Item:ID.Item.Knife.Default\",\"StartingItemAttachments\":[],\"Emotes\":[],\"CharacterDefinition\":\"Character:ID.Character.Michael\",\"Cosmetics\":[{\"ID\":\"Cosmetic:ID.Cosmetic.Killer.FC.MIBPreOrder\",\"Variant\":{\"TagName\":\"None\"}}],\"PerkDeckIndex\":-1,\"bCustomNameSet\":false,\"bIsActive\":false,\"Name\":\"\"}"
+        }
+    }
+]

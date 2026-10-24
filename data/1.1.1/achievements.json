@@ -1,0 +1,346 @@
+{
+    "Achievements": [
+        {
+            "ID": "ID.BA.Passive.Civilian.Basic.2.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 71,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Civilian.Basic.3.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 7,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Civilian.Basic.5.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 2,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Civilian.Basic.6.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 3,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 30,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T20:59:10.033463Z",
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.1.2",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 24,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.2.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 5,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.3.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 45,
+            "Completed": true,
+            "CompletedAt": "2026-09-27T18:57:53.291027Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.3.2",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 2,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.4.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 6,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Passive.Killer.Basic.6.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 3,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Alexis.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 8,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Annie.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 8,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Eric.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 71,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Jennifer.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 15,
+            "Completed": true,
+            "CompletedAt": "2026-09-10T17:12:43.54807Z",
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Jennifer.1.2",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 3,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Laurie.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 2,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Lynda.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-10T17:00:28.982734Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Rachel.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 2,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Civilian.Tanya.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-10T17:00:28.982734Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Killer.Michael1978.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 35,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Killer.MichaelClown.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 21,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Killer.MichaelInmate.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 4,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Killer.MichaelSamhain.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Killer.MichaelScorched.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 5,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Progressive.Killer.MichaelStitched.1.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 5,
+            "Completed": false,
+            "CompletedAt": "0001-01-01T00:00:00Z",
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Challenge.0.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T16:28:54.681534Z",
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Challenge.0.2",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T16:28:54.681534Z",
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Challenge.1.2",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T16:28:54.681534Z",
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Challenge.3.5",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T20:34:45.658019Z",
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Challenge.5.5",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T21:07:28.678366Z",
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 0,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T21:07:28.678366Z",
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion.0",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T16:28:54.681534Z",
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion.1",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T17:14:25.480967Z",
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion.2",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T17:37:37.606627Z",
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion.3",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T20:34:45.658019Z",
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion.4",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T20:59:10.033463Z",
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Found": true
+        },
+        {
+            "ID": "ID.BA.Singleplayer.Chapter.Completion.5",
+            "AccountID": "fad95950-8105-4edb-acc1-c1f120ea27fa",
+            "Progress": 1,
+            "Completed": true,
+            "CompletedAt": "2026-09-08T21:07:28.678366Z",
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Found": true
+        }
+    ]
+}

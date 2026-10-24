@@ -2,14 +2,16 @@ const { v4: uuid } = require("uuid");
 
 const entries = new Map();
 
+let nextSequence = 0;
+let nextReadyAt = 0;
+
 function toResponse(entry) {
-    if (!entry.Ready && entry.ReadyAt <= Date.now()) {
-        entry.Ready = true;
-    }
+    const now = Date.now();
+    if (!entry.Ready && entry.ReadyAt <= now) entry.Ready = true;
 
     const waitingEntries = [...entries.values()]
         .filter(item => !item.Ready)
-        .sort((left, right) => left.Sequence - right.Sequence);
+        .sort((a, b) => a.Sequence - b.Sequence);
     const position = entry.Ready
         ? 0
         : waitingEntries.findIndex(item => item.Token === entry.Token) + 1;
@@ -18,22 +20,27 @@ function toResponse(entry) {
         Token: entry.Token,
         QueuedAt: entry.QueuedAt,
         Position: position,
-        DelayMS: Math.max(0, entry.ReadyAt - Date.now()),
+        DelayMS: Math.max(0, entry.ReadyAt - now),
         Ready: entry.Ready
     };
 }
 
 function joinQueue(token = uuid()) {
     let entry = entries.get(token);
+
     if (!entry) {
         const now = Date.now();
+        const readyAt = Math.max(now, nextReadyAt);
+
         entry = {
             Token: token,
             QueuedAt: new Date(now).toISOString(),
-            ReadyAt: now + process.env.QUEUE_MS,
+            ReadyAt: readyAt,
             Ready: false,
-            Sequence: now + entries.size
+            Sequence: nextSequence++
         };
+
+        nextReadyAt = readyAt + process.env.QUEUE_MS;
         entries.set(token, entry);
     }
 
@@ -49,15 +56,13 @@ function leaveQueue(token) {
     return entries.delete(token);
 }
 
-const worker = setInterval(() => {
+setInterval(() => {
     const now = Date.now();
     for (const entry of entries.values()) {
         if (!entry.Ready && entry.ReadyAt <= now) {
             entry.Ready = true;
         }
     }
-}, 1000);
-
-worker.unref();
+}, 250);
 
 module.exports = { joinQueue, getQueueStatus, leaveQueue };

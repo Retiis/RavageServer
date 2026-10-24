@@ -1,0 +1,1655 @@
+{
+    "Platform": "Steam",
+    "Gamertag": "Retii",
+    "LastBuild": 72163,
+    "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+    "Stats": [
+        {
+            "StatID": "ST.H.7.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.2",
+            "Value": 5,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH1.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.20.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH2.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.7",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.2",
+            "Value": 4,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.13",
+            "Value": 3,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.13",
+            "Value": 18,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.7",
+            "Value": 1,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.43",
+            "Value": 9,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH4.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH5.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH5.Time.Normal",
+            "Value": 435,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.G.6",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.4.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.1",
+            "Value": 54,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.2",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.22",
+            "Value": 4,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.Challenge.CH0.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH0.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.5.2",
+            "Value": 11,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.17.6",
+            "Value": 21,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.55",
+            "Value": 6,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.17.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:59:46.153699Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.43.1",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "MMP-H-K",
+            "Value": 11,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.21",
+            "Value": 2,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.11",
+            "Value": 32,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH1.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH3.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.10",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.25",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.5.2",
+            "Value": 2,
+            "UpdatedAt": "2026-09-29T19:48:04.28252Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.9",
+            "Value": 1,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "MMR-H-K",
+            "Value": 1011.7891924686809,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.G.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18",
+            "Value": 6,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.18",
+            "Value": 12,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.4",
+            "Value": 2,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.3",
+            "Value": 13,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH2.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.44",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:00:28.982734Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.35",
+            "Value": 2,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH0.Time.Normal",
+            "Value": 482,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.22.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.17.3",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.8.1",
+            "Value": 8,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.12",
+            "Value": 5,
+            "UpdatedAt": "2026-09-13T16:43:32.0674Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.5.7",
+            "Value": 2,
+            "UpdatedAt": "2026-09-13T16:43:32.0674Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.35",
+            "Value": 6,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.34",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:00:28.982734Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.23",
+            "Value": 8,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.W.K.11",
+            "Value": 6,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.8",
+            "Value": 35,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.51",
+            "Value": 5,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.6",
+            "Value": 64,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.28.3",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH2.Score.Normal",
+            "Value": 3145,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.Challenge.CH3.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH3.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH3.Score.Normal",
+            "Value": 4354,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.40",
+            "Value": 11,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.52",
+            "Value": 7,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.23",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.20",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH4.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.5.9",
+            "Value": 7,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.24",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH2.Time.Normal",
+            "Value": 786,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.G.8",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.22.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.Challenge.CH5.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.20",
+            "Value": 8,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.Challenge.CH0.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.6",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.30",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH5.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.7.2",
+            "Value": 3,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.3",
+            "Value": 6,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH0.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH1.Score.Normal",
+            "Value": 1497,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.G.7",
+            "Value": 3,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH1.Time.Normal",
+            "Value": 486,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.2",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.4",
+            "Value": 71,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.3",
+            "Value": 2,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH1.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH2.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.16",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH4.Score.Normal",
+            "Value": 3900,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.4",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.18.2",
+            "Value": 14,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.42",
+            "Value": 21,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.11",
+            "Value": 50,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.7.2",
+            "Value": 9,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.17",
+            "Value": 47,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.3",
+            "Value": 13,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH3.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.8",
+            "Value": 2,
+            "UpdatedAt": "2026-09-13T16:43:32.0674Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH0.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.G.1",
+            "Value": 8,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.44",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.51.1",
+            "Value": 2,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.28",
+            "Value": 3,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.32",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.9",
+            "Value": 5,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.5",
+            "Value": 8,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.21",
+            "Value": 13,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH4.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.5",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.27",
+            "Value": 22,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.28.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.17.2",
+            "Value": 9,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.8",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.14",
+            "Value": 4,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.W.K.3",
+            "Value": 3,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.28",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.6.1",
+            "Value": 5,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH3.Time.Normal",
+            "Value": 667,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH4.Time.Normal",
+            "Value": 872,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "MMR-H-H",
+            "Value": 1034.9451793485712,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH0.Score.Normal",
+            "Value": 420,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.Challenge.CH1.2",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.45",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.5.1",
+            "Value": 7,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.17.4",
+            "Value": 14,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.23.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH5.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.16",
+            "Value": 5,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.5.8",
+            "Value": 1,
+            "UpdatedAt": "2026-09-29T19:48:04.28252Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.18.1",
+            "Value": 14,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.SP.CH5.Score.Normal",
+            "Value": 1030,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.7.12",
+            "Value": 16,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.K.18.15",
+            "Value": 4,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        {
+            "StatID": "ST.H.36",
+            "Value": 2,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        }
+    ],
+    "StatsAsMap": {
+        "MMP-H-K": {
+            "StatID": "MMP-H-K",
+            "Value": 11,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "MMR-H-H": {
+            "StatID": "MMR-H-H",
+            "Value": 1034.9451793485712,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "MMR-H-K": {
+            "StatID": "MMR-H-K",
+            "Value": 1011.7891924686809,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.G.1": {
+            "StatID": "ST.G.1",
+            "Value": 8,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.G.5": {
+            "StatID": "ST.G.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.G.6": {
+            "StatID": "ST.G.6",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.G.7": {
+            "StatID": "ST.G.7",
+            "Value": 3,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.G.8": {
+            "StatID": "ST.G.8",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.H.13": {
+            "StatID": "ST.H.13",
+            "Value": 3,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.H.14": {
+            "StatID": "ST.H.14",
+            "Value": 4,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.17.1": {
+            "StatID": "ST.H.17.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:59:46.153699Z",
+            "Updated": false
+        },
+        "ST.H.18": {
+            "StatID": "ST.H.18",
+            "Value": 12,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.18.1": {
+            "StatID": "ST.H.18.1",
+            "Value": 14,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.18.2": {
+            "StatID": "ST.H.18.2",
+            "Value": 14,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.2": {
+            "StatID": "ST.H.2",
+            "Value": 5,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.20": {
+            "StatID": "ST.H.20",
+            "Value": 8,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.21": {
+            "StatID": "ST.H.21",
+            "Value": 13,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.23": {
+            "StatID": "ST.H.23",
+            "Value": 8,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.H.27": {
+            "StatID": "ST.H.27",
+            "Value": 22,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.28": {
+            "StatID": "ST.H.28",
+            "Value": 3,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.3": {
+            "StatID": "ST.H.3",
+            "Value": 2,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.H.32": {
+            "StatID": "ST.H.32",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.H.34": {
+            "StatID": "ST.H.34",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:00:28.982734Z",
+            "Updated": false
+        },
+        "ST.H.35": {
+            "StatID": "ST.H.35",
+            "Value": 6,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.36": {
+            "StatID": "ST.H.36",
+            "Value": 2,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.4": {
+            "StatID": "ST.H.4",
+            "Value": 71,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.40": {
+            "StatID": "ST.H.40",
+            "Value": 11,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.44": {
+            "StatID": "ST.H.44",
+            "Value": 1,
+            "UpdatedAt": "2026-09-10T17:00:28.982734Z",
+            "Updated": false
+        },
+        "ST.H.5.1": {
+            "StatID": "ST.H.5.1",
+            "Value": 7,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.5.2": {
+            "StatID": "ST.H.5.2",
+            "Value": 2,
+            "UpdatedAt": "2026-09-29T19:48:04.28252Z",
+            "Updated": false
+        },
+        "ST.H.5.7": {
+            "StatID": "ST.H.5.7",
+            "Value": 2,
+            "UpdatedAt": "2026-09-13T16:43:32.0674Z",
+            "Updated": false
+        },
+        "ST.H.5.8": {
+            "StatID": "ST.H.5.8",
+            "Value": 1,
+            "UpdatedAt": "2026-09-29T19:48:04.28252Z",
+            "Updated": false
+        },
+        "ST.H.5.9": {
+            "StatID": "ST.H.5.9",
+            "Value": 7,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.51": {
+            "StatID": "ST.H.51",
+            "Value": 5,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.51.1": {
+            "StatID": "ST.H.51.1",
+            "Value": 2,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.H.52": {
+            "StatID": "ST.H.52",
+            "Value": 7,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.55": {
+            "StatID": "ST.H.55",
+            "Value": 6,
+            "UpdatedAt": "2026-09-10T17:12:43.54807Z",
+            "Updated": false
+        },
+        "ST.H.7": {
+            "StatID": "ST.H.7",
+            "Value": 1,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.7.1": {
+            "StatID": "ST.H.7.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.7.2": {
+            "StatID": "ST.H.7.2",
+            "Value": 3,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.H.8": {
+            "StatID": "ST.H.8",
+            "Value": 2,
+            "UpdatedAt": "2026-09-13T16:43:32.0674Z",
+            "Updated": false
+        },
+        "ST.H.9": {
+            "StatID": "ST.H.9",
+            "Value": 1,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.K.11": {
+            "StatID": "ST.K.11",
+            "Value": 32,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.12": {
+            "StatID": "ST.K.12",
+            "Value": 5,
+            "UpdatedAt": "2026-09-13T16:43:32.0674Z",
+            "Updated": false
+        },
+        "ST.K.16": {
+            "StatID": "ST.K.16",
+            "Value": 5,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.17": {
+            "StatID": "ST.K.17",
+            "Value": 47,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.17.2": {
+            "StatID": "ST.K.17.2",
+            "Value": 9,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.17.3": {
+            "StatID": "ST.K.17.3",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.17.4": {
+            "StatID": "ST.K.17.4",
+            "Value": 14,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.17.6": {
+            "StatID": "ST.K.17.6",
+            "Value": 21,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.18": {
+            "StatID": "ST.K.18",
+            "Value": 6,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.18.15": {
+            "StatID": "ST.K.18.15",
+            "Value": 4,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.18.16": {
+            "StatID": "ST.K.18.16",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.K.18.2": {
+            "StatID": "ST.K.18.2",
+            "Value": 4,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.18.21": {
+            "StatID": "ST.K.18.21",
+            "Value": 2,
+            "UpdatedAt": "2026-09-30T12:50:54.720599Z",
+            "Updated": false
+        },
+        "ST.K.18.28": {
+            "StatID": "ST.K.18.28",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.K.18.28.2": {
+            "StatID": "ST.K.18.28.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.K.18.28.3": {
+            "StatID": "ST.K.18.28.3",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.K.18.3": {
+            "StatID": "ST.K.18.3",
+            "Value": 13,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.18.30": {
+            "StatID": "ST.K.18.30",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.18.4": {
+            "StatID": "ST.K.18.4",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.18.4.2": {
+            "StatID": "ST.K.18.4.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.18.5": {
+            "StatID": "ST.K.18.5",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.18.5.2": {
+            "StatID": "ST.K.18.5.2",
+            "Value": 11,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.18.6": {
+            "StatID": "ST.K.18.6",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.K.18.6.1": {
+            "StatID": "ST.K.18.6.1",
+            "Value": 5,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.18.7.2": {
+            "StatID": "ST.K.18.7.2",
+            "Value": 9,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.18.8": {
+            "StatID": "ST.K.18.8",
+            "Value": 35,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.18.8.1": {
+            "StatID": "ST.K.18.8.1",
+            "Value": 8,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.2": {
+            "StatID": "ST.K.2",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.20": {
+            "StatID": "ST.K.20",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.K.20.1": {
+            "StatID": "ST.K.20.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.K.22": {
+            "StatID": "ST.K.22",
+            "Value": 4,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.22.1": {
+            "StatID": "ST.K.22.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.22.2": {
+            "StatID": "ST.K.22.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.23": {
+            "StatID": "ST.K.23",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.23.1": {
+            "StatID": "ST.K.23.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.K.24": {
+            "StatID": "ST.K.24",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.25": {
+            "StatID": "ST.K.25",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.3": {
+            "StatID": "ST.K.3",
+            "Value": 13,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.35": {
+            "StatID": "ST.K.35",
+            "Value": 2,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.4": {
+            "StatID": "ST.K.4",
+            "Value": 2,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.42": {
+            "StatID": "ST.K.42",
+            "Value": 21,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.43": {
+            "StatID": "ST.K.43",
+            "Value": 9,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.43.1": {
+            "StatID": "ST.K.43.1",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.K.44": {
+            "StatID": "ST.K.44",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.K.45": {
+            "StatID": "ST.K.45",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.5": {
+            "StatID": "ST.K.5",
+            "Value": 8,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.7.1": {
+            "StatID": "ST.K.7.1",
+            "Value": 54,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.10": {
+            "StatID": "ST.K.7.10",
+            "Value": 1,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.11": {
+            "StatID": "ST.K.7.11",
+            "Value": 50,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.12": {
+            "StatID": "ST.K.7.12",
+            "Value": 16,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.13": {
+            "StatID": "ST.K.7.13",
+            "Value": 18,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.2": {
+            "StatID": "ST.K.7.2",
+            "Value": 12,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.3": {
+            "StatID": "ST.K.7.3",
+            "Value": 6,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.5": {
+            "StatID": "ST.K.7.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.K.7.6": {
+            "StatID": "ST.K.7.6",
+            "Value": 64,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.K.7.7": {
+            "StatID": "ST.K.7.7",
+            "Value": 2,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.K.8": {
+            "StatID": "ST.K.8",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.K.9": {
+            "StatID": "ST.K.9",
+            "Value": 5,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.CH0.Completion": {
+            "StatID": "ST.SP.CH0.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.CH0.Completion.Normal": {
+            "StatID": "ST.SP.CH0.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.CH0.Difficulty": {
+            "StatID": "ST.SP.CH0.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.CH0.Score.Normal": {
+            "StatID": "ST.SP.CH0.Score.Normal",
+            "Value": 420,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.CH0.Time.Normal": {
+            "StatID": "ST.SP.CH0.Time.Normal",
+            "Value": 482,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.CH1.Completion": {
+            "StatID": "ST.SP.CH1.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.SP.CH1.Completion.Normal": {
+            "StatID": "ST.SP.CH1.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.SP.CH1.Difficulty": {
+            "StatID": "ST.SP.CH1.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.SP.CH1.Score.Normal": {
+            "StatID": "ST.SP.CH1.Score.Normal",
+            "Value": 1497,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.SP.CH1.Time.Normal": {
+            "StatID": "ST.SP.CH1.Time.Normal",
+            "Value": 486,
+            "UpdatedAt": "2026-09-08T17:14:25.480967Z",
+            "Updated": false
+        },
+        "ST.SP.CH2.Completion": {
+            "StatID": "ST.SP.CH2.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.SP.CH2.Completion.Normal": {
+            "StatID": "ST.SP.CH2.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.SP.CH2.Difficulty": {
+            "StatID": "ST.SP.CH2.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.SP.CH2.Score.Normal": {
+            "StatID": "ST.SP.CH2.Score.Normal",
+            "Value": 3145,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.SP.CH2.Time.Normal": {
+            "StatID": "ST.SP.CH2.Time.Normal",
+            "Value": 786,
+            "UpdatedAt": "2026-09-08T17:37:37.606627Z",
+            "Updated": false
+        },
+        "ST.SP.CH3.Completion": {
+            "StatID": "ST.SP.CH3.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.CH3.Completion.Normal": {
+            "StatID": "ST.SP.CH3.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.CH3.Difficulty": {
+            "StatID": "ST.SP.CH3.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.CH3.Score.Normal": {
+            "StatID": "ST.SP.CH3.Score.Normal",
+            "Value": 4354,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.CH3.Time.Normal": {
+            "StatID": "ST.SP.CH3.Time.Normal",
+            "Value": 667,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.CH4.Completion": {
+            "StatID": "ST.SP.CH4.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.SP.CH4.Completion.Normal": {
+            "StatID": "ST.SP.CH4.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.SP.CH4.Difficulty": {
+            "StatID": "ST.SP.CH4.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.SP.CH4.Score.Normal": {
+            "StatID": "ST.SP.CH4.Score.Normal",
+            "Value": 3900,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.SP.CH4.Time.Normal": {
+            "StatID": "ST.SP.CH4.Time.Normal",
+            "Value": 872,
+            "UpdatedAt": "2026-09-08T20:59:10.033463Z",
+            "Updated": false
+        },
+        "ST.SP.CH5.Completion": {
+            "StatID": "ST.SP.CH5.Completion",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.SP.CH5.Completion.Normal": {
+            "StatID": "ST.SP.CH5.Completion.Normal",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.SP.CH5.Difficulty": {
+            "StatID": "ST.SP.CH5.Difficulty",
+            "Value": 0,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.SP.CH5.Score.Normal": {
+            "StatID": "ST.SP.CH5.Score.Normal",
+            "Value": 1030,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.SP.CH5.Time.Normal": {
+            "StatID": "ST.SP.CH5.Time.Normal",
+            "Value": 435,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.SP.Challenge.CH0.1": {
+            "StatID": "ST.SP.Challenge.CH0.1",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.Challenge.CH0.2": {
+            "StatID": "ST.SP.Challenge.CH0.2",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.Challenge.CH1.2": {
+            "StatID": "ST.SP.Challenge.CH1.2",
+            "Value": 3,
+            "UpdatedAt": "2026-09-08T16:28:54.681534Z",
+            "Updated": false
+        },
+        "ST.SP.Challenge.CH3.5": {
+            "StatID": "ST.SP.Challenge.CH3.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T20:34:45.658019Z",
+            "Updated": false
+        },
+        "ST.SP.Challenge.CH5.5": {
+            "StatID": "ST.SP.Challenge.CH5.5",
+            "Value": 1,
+            "UpdatedAt": "2026-09-08T21:07:28.678366Z",
+            "Updated": false
+        },
+        "ST.W.K.11": {
+            "StatID": "ST.W.K.11",
+            "Value": 6,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        },
+        "ST.W.K.3": {
+            "StatID": "ST.W.K.3",
+            "Value": 3,
+            "UpdatedAt": "2026-09-27T18:57:53.291027Z",
+            "Updated": false
+        }
+    },
+    "OmitFromLeaderboards": false
+}

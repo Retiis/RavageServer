@@ -1,0 +1,19 @@
+{
+    "Articles": [
+        {
+            "ID": 100,
+            "Published": true,
+            "Headline": "  ",
+            "Content": "Patch 1.1.1 is now live. This update introduces a variety of crash fixes for Xbox Series X|S, PS5, and PC.\r\n\r\n\r\n- Fixed a crash that could occur when using Quick Resume on Xbox Series X|S\r\n- Fixed a shader crash that could occur when using Performance Mode on Xbox Series X\r\n- Fixed crashes caused when using DLSS and FSR frame generation\r\n- Fixed a crash that could occur when Grabbing\r\n- Fixed various crashes caused by gameplay interactions\r\n- Various additional crash fixes",
+            "ImgLink": "https://cdn.ravage.illfonic.com/images/Production/articles/1792182504100/large.png?Expires=1792938723\u0026Signature=X60pWGnYulxQe~DPdiO6uuxZM-~vAbL7DJp~k6rlLwNf7a7Ed6AbVRqAF9TP0IPdlmq-ULMuaKsuFV34G9Y8xOqTu1brHCt~YklJHY3OfmLCRFIL3SadX-sVHUjVqDRPVNcVazwW3B~-W3gvdKKjcrhLU~yp1ZiKoDT20UjnZCvOhSPqmWegCVeJe~SSBSUxiM1RTnjbyPnwpxIMHIskHvs3iEq9iq3usyC2l1NIYoSFOskDfZOWW-AL5Bo~TCRlcEvL9fH9QaEBUbDTCgvUSRoS04FROV7JCgd4zhP1fcpdEGrFYEiTzenDLW6C~bocPuFx7G2EEYHZ~Ux95FMp6A__\u0026Key-Pair-Id=KBK4S80DXXDXG",
+            "ThumbLink": "https://cdn.ravage.illfonic.com/images/Production/articles/1792182504100/thumb.png?Expires=1792938723\u0026Signature=Ik3wAmvgcEhhi0gfSscYYFutMbGNMLPo8iKC0VtE9K7DMFBtcdCAdM-4WzKkJVPlngDlef~~OjMEjaxsMrHpdBMzpimo1t4mJaK1rE8fRYR8rveGOw--4wvrPleFfxrXklrXs4g~NhTN9bT~BJEtoLNnvFb-KWkncdKd6f6ZXzsIMKFdxBZ4-V-Sgw2bKFl~Viak8Kabzsb~948vScvDz72lIbcrtFR2lRBcGudW1ix6wom39yovMkDStXrL-Q0SEnQuGVRz0Gucl4U-vJNdAE5TenvPvHqvC4nV-yGpi7KsIFAO-562MjMJ7t~YjJzfOlOHAJOauY~Zx0VUuwsXmw__\u0026Key-Pair-Id=KBK4S80DXXDXG",
+            "ArticleLink": "",
+            "CreatedAt": "2026-10-16T18:04:26.481179Z",
+            "UpdatedAt": "2026-10-16T20:28:29.370965Z",
+            "StartsAt": "2026-10-16T18:03:24Z",
+            "EndsAt": "0001-01-01T00:00:00Z",
+            "Tags": null
+        }
+    ],
+    "Count": 1
+}
