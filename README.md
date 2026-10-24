@@ -7,7 +7,7 @@
 
 Most of the basic endpoints are added.
 I am searching for a fix for the ``Backend login failed, invalid response!`` error in the game (screenshot below)
-<img src="https://i.ibb.co/qYswq9F3/20261024182758-1.jpg">
+<img src="https://i.ibb.co/nNvmSv30/20261024200433-1.jpg">
 
 ## How to host/use RavageServer
 1) Install [NodeJS](https://nodejs.org/en/)
