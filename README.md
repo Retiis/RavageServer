@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://i.ibb.co/XfNHSwW6/logo.png" alt="RavageServer Logo">
+  <img src="https://i.ibb.co/fVc3WVsV/logo-smaller.png" alt="RavageServer Logo">
 
   ### RavageServer is a WIP private server for Halloween: The Game!
   
